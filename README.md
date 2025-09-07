@@ -274,7 +274,7 @@ For support and questions:
 
 **🌃 Welcome to the Future of Learning 🌃**
 
-*Built with ❤️ and lots of ☕ by the Cyberpunk Dev Team*
+*Built with ❤️ and lots of ☕ by the Cyberpunk Application*
 
 [![GitHub stars](https://img.shields.io/github/stars/BJANANI12/QUIZ_APP-FOR-CRYBERPUNK?style=social)](https://github.com/BJANANI12/QUIZ_APP-FOR-CRYBERPUNK/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/BJANANI12/QUIZ_APP-FOR-CRYBERPUNK?style=social)](https://github.com/BJANANI12/QUIZ_APP-FOR-CRYBERPUNK/network)
