@@ -256,10 +256,6 @@ For support and questions:
 - **🔊 Voice Commands**: Voice-controlled interface
 - **🎯 AI Integration**: Smart question generation
 
-## 🌟 Screenshots
-
-*Add screenshots of your application here showing the cyberpunk interface*
-
 ## ⚡ Performance
 
 - **⚡ Fast Loading**: Optimized bundle size
